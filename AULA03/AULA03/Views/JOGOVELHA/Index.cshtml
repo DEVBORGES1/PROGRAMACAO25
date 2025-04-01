@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Jogo da Velha";
+}
+
+<h2>Jogo da Velha</h2>
+
+<form method="post">
+    <table border="1" cellpadding="10">
+        @for (int i = 0; i < 3; i++)
+        {
+            <tr>
+                @for (int j = 0; j < 3; j++)
+                {
+                    string id = $"A{i}{j}";
+                    <td>
+                        <input type="text" name="@id" maxlength="1" size="1" style="text-align: center;" />
+                    </td>
+                }
+            </tr>
+        }
+    </table>
+
+    <br />
+    <button type="submit">Jogar</button>
+</form>
+
+@if (ViewBag.Vencedor != null)
+{
+    <h3>@ViewBag.Vencedor</h3>
+}
