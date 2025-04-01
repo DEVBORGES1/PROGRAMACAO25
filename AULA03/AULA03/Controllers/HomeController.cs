@@ -110,8 +110,13 @@ public class HomeController : Controller
     {
         string retorno = string.Empty;
 
-        for (int i = 0; i < x; i++)
+        for (int i = 1; i < x; i++)
         {
+            if (i > 50)
+                break;
+
+            if ((i % 2) != 0)
+                continue;
             retorno += $"{i}; ";
         }
         return retorno;
@@ -121,6 +126,30 @@ public class HomeController : Controller
         return View();
     }
 
+    [HttpGet]
+    public string GetForeach()
+    {
+        string[] colors =
+        {
+            "Vermelho ","Preto ", "Azul ", "Amarelo ", "Verde ", "Branco ",
+            "Azul-Marinho ", "Rosa ", "Roxo ", "Cinza "
+        };
+        if (colors.Contains(color))
+            retorno = "A sua cor escolhida está valida ";
+
+
+        else retorno = "A cor escolhida é invalida";
+
+        foreach (string s in colors)
+        {
+            retorno += $"[{s}] ";
+        }
+    }
+
+    public IActionResult Privacy()
+    {
+        return View();
+    }
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
