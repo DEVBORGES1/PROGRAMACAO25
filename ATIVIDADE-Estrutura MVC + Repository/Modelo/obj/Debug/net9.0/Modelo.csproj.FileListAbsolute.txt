@@ -10,3 +10,15 @@ D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\refint\Modelo.dll
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\Modelo.pdb
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Modelo\obj\Debug\net9.0\ref\Modelo.dll
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\bin\Debug\net9.0\Modelo.deps.json
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\bin\Debug\net9.0\Modelo.dll
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\bin\Debug\net9.0\Modelo.pdb
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\obj\Debug\net9.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\obj\Debug\net9.0\Modelo.AssemblyInfo.cs
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\obj\Debug\net9.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\obj\Debug\net9.0\Modelo.sourcelink.json
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\obj\Debug\net9.0\Modelo.dll
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\obj\Debug\net9.0\refint\Modelo.dll
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\obj\Debug\net9.0\Modelo.pdb
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Modelo\obj\Debug\net9.0\ref\Modelo.dll

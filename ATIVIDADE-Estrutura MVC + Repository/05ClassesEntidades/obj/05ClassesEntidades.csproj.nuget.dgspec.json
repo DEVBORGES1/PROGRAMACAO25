@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\05ClassesEntidades.csproj": {}
+    "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\05ClassesEntidades\\05ClassesEntidades.csproj": {}
   },
   "projects": {
-    "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\05ClassesEntidades.csproj": {
+    "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\05ClassesEntidades\\05ClassesEntidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\05ClassesEntidades.csproj",
+        "projectUniqueName": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\05ClassesEntidades\\05ClassesEntidades.csproj",
         "projectName": "05ClassesEntidades",
-        "projectPath": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\05ClassesEntidades.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\05ClassesEntidades\\obj\\",
+        "projectPath": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\05ClassesEntidades\\05ClassesEntidades.csproj",
+        "packagesPath": "C:\\Users\\403392\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\05ClassesEntidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\403392\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Modelo\\Modelo.csproj": {
-                "projectPath": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Modelo\\Modelo.csproj"
+              "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Modelo\\Modelo.csproj": {
+                "projectPath": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Modelo\\Modelo.csproj"
               },
-              "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Repository\\Repository.csproj"
+              "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Repository\\Repository.csproj"
               }
             }
           }
@@ -51,7 +52,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -75,24 +76,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Modelo\\Modelo.csproj": {
+    "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Modelo\\Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Modelo\\Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Modelo\\Modelo.csproj",
         "projectName": "Modelo",
-        "projectPath": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Modelo\\Modelo.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Modelo\\obj\\",
+        "projectPath": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Modelo\\Modelo.csproj",
+        "packagesPath": "C:\\Users\\403392\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\403392\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -101,6 +102,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -119,7 +121,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -140,24 +142,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Repository\\Repository.csproj": {
+    "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\403392\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\403392\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -166,14 +168,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Modelo\\Modelo.csproj": {
-                "projectPath": "D:\\Unoesc\\Programação I\\Atividades\\05ClassesEntidades\\Modelo\\Modelo.csproj"
+              "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Modelo\\Modelo.csproj": {
+                "projectPath": "C:\\Users\\403392\\Desktop\\Nova pasta\\PROGRAMACAO25\\ATIVIDADE-Estrutura MVC + Repository\\Modelo\\Modelo.csproj"
               }
             }
           }
@@ -188,7 +191,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -209,7 +212,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,3 +14,19 @@ D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\bin\Debug\net9.0\Modelo.dll
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\bin\Debug\net9.0\Modelo.pdb
 D:\Unoesc\Programação I\Atividades\05ClassesEntidades\Repository\obj\Debug\net9.0\Repository.csproj.Up2Date
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\bin\Debug\net9.0\Repository.deps.json
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\bin\Debug\net9.0\Repository.dll
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\bin\Debug\net9.0\Repository.pdb
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\bin\Debug\net9.0\Modelo.dll
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\bin\Debug\net9.0\Modelo.pdb
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\obj\Debug\net9.0\Repository.csproj.AssemblyReference.cache
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\obj\Debug\net9.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\obj\Debug\net9.0\Repository.AssemblyInfoInputs.cache
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\obj\Debug\net9.0\Repository.AssemblyInfo.cs
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\obj\Debug\net9.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\obj\Debug\net9.0\Repository.sourcelink.json
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\obj\Debug\net9.0\Repository.csproj.Up2Date
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\obj\Debug\net9.0\Repository.dll
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\obj\Debug\net9.0\refint\Repository.dll
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\obj\Debug\net9.0\Repository.pdb
+C:\Users\403392\Desktop\Nova pasta\PROGRAMACAO25\ATIVIDADE-Estrutura MVC + Repository\Repository\obj\Debug\net9.0\ref\Repository.dll
